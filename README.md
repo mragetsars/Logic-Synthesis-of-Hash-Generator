@@ -54,7 +54,7 @@ Below are schematic representations of how logic gates were mapped to the struct
 |           Basic Gate Mapping           |        Complex Module Structure        |
 | :------------------------------------: | :------------------------------------: |
 |   **AND Gate Implementation**   |   **ALU Logic Implementation**   |
-|    ![AND Gate](Designs/CA3_and_2.PNG)    | ![ALU Logic](Designs/HG_F_logic_ALU.PNG) |
+|    ![AND Gate](https://raw.githubusercontent.com/mragetsars/Logic-Synthesis-of-Hash-Generator/refs/heads/master/Design/CA3_and_2.png)    | ![ALU Logic](https://raw.githubusercontent.com/mragetsars/Logic-Synthesis-of-Hash-Generator/refs/heads/master/Design/HG_F_logic_ALU.png) |
 | *Mapping basic logic to C1/C2 cells* | *Structural composition of the ALU* |
 
 ## 📂 Repository Structure
@@ -103,3 +103,4 @@ This project was developed as a team effort for the **CAD** course at the **Univ
 
 * **[Sadra Salehi](https://github.com/im-w)**
 * **[Meraj Rastegar](https://github.com/mragetsars)**
+
