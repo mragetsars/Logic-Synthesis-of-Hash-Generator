@@ -1,0 +1,967 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mrage/Programs/Codes/Verilog/CAD_CA4/prj
+vc1
+Z0 !s110 1765971420
+!i10b 1
+!s100 gHHcEJdHlN5Tl?lb>_e=P0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYJQkB;k_6z;CK4mXHjC<;1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Project
+Z4 w1764700428
+Z5 8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/modules.v
+Z6 FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/modules.v
+!i122 17
+L0 1 10
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1765971420.000000
+Z9 !s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/modules.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/modules.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vc2
+R0
+!i10b 1
+!s100 ]=>I0dj>3Kiz6B_B63:Qh3
+R1
+I0FH>lLi?CIh;7e4<Z[]^Z2
+R2
+R3
+R4
+R5
+R6
+!i122 17
+L0 11 28
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vCA3_and_2
+Z13 !s110 1765971418
+!i10b 1
+!s100 KUY^UY7Ia]hk6Cf@R_k3_3
+R1
+IbFmL<7c?DG_ddM6S@mFoK1
+R2
+R3
+Z14 w1764703677
+Z15 8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_and.v
+Z16 FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_and.v
+!i122 0
+Z17 L0 1 14
+R7
+r1
+!s85 0
+31
+Z18 !s108 1765971418.000000
+Z19 !s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_and.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_and.v|
+!i113 1
+R11
+R12
+n@c@a3_and_2
+vCA3_and_3
+R13
+!i10b 1
+!s100 GQCA4A>LGJlY2QI]_IlTU0
+R1
+IAQ1CRJ]?9>_nNa2lLJeR^3
+R2
+R3
+R14
+R15
+R16
+!i122 0
+L0 16 15
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!i113 1
+R11
+R12
+n@c@a3_and_3
+vCA3_inv
+R13
+!i10b 1
+!s100 TEI9F;HQMT0566nEPA0ZZ1
+R1
+Ia:@4oeE@JzZCoKl]3zogT1
+R2
+R3
+w1764662757
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_inv.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_inv.v
+!i122 1
+L0 1 13
+R7
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_inv.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_inv.v|
+!i113 1
+R11
+R12
+n@c@a3_inv
+vCA3_irg
+R13
+!i10b 1
+!s100 ahFlge0FH3J?k>6KWobc40
+R1
+IdU2?W]@QTZCEZYPTWjKnF3
+R2
+R3
+w1764698997
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_irg.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_irg.v
+!i122 2
+L0 1 17
+R7
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_irg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_irg.v|
+!i113 1
+R11
+R12
+n@c@a3_irg
+vCA3_reg
+R13
+!i10b 1
+!s100 Wk8a?z5he;Xh=;O5?BoZF0
+R1
+IRjD:_5LRl:SMiNnh^UDX52
+R2
+R3
+w1764650862
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_reg.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_reg.v
+!i122 3
+L0 1 19
+R7
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_reg.v|
+!i113 1
+R11
+R12
+n@c@a3_reg
+vCA3_xor
+R13
+!i10b 1
+!s100 IkUUdDendjW11_h0fW6zE2
+R1
+IGKAQSb:U1;UL9o`Y_l<3U3
+R2
+R3
+w1764644503
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_xor.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_xor.v
+!i122 4
+R17
+R7
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_xor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_xor.v|
+!i113 1
+R11
+R12
+n@c@a3_xor
+vFDCP
+R0
+!i10b 1
+!s100 W7:IP4a8CZ>D>95]^NLBQ3
+R1
+Ij]l;Q457SMSmB4@Eie^R01
+R2
+R3
+R4
+R5
+R6
+!i122 17
+L0 39 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@f@d@c@p
+vHG_B_adder
+Z21 !s110 1765971419
+!i10b 1
+!s100 GI^Tf_`cSa@Ka[ZG68J8<0
+R1
+I9VT@O^Y8VUB4mDI6Jc;A52
+R2
+R3
+w1764704166
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_B_adder.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_B_adder.v
+!i122 5
+L0 1 155
+R7
+r1
+!s85 0
+31
+Z22 !s108 1765971419.000000
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_B_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_B_adder.v|
+!i113 1
+R11
+R12
+n@h@g_@b_adder
+vHG_const_mem
+R21
+!i10b 1
+!s100 9[1_SGke[[==N[e]]]2gb2
+R1
+IhI72z9;Y`Ce8G7Un70fR93
+R2
+R3
+w1764650186
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_const_mem.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_const_mem.v
+!i122 6
+L0 1 20
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_const_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_const_mem.v|
+!i113 1
+R11
+R12
+n@h@g_const_mem
+vHG_controller
+R21
+!i10b 1
+!s100 gBcm_f@=ZVCFPJLMZLUmQ0
+R1
+I109G[0Tg=Yo[a?cEF3N8_2
+R2
+R3
+w1764705637
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_controller.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_controller.v
+!i122 7
+L0 1 198
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_controller.v|
+!i113 1
+R11
+R12
+n@h@g_controller
+vHG_datapath
+R21
+!i10b 1
+!s100 ]aY?>Q[QaN91@Im`7zIlo1
+R1
+IHZLAOlg4PS7]?S;ccOeC82
+R2
+R3
+w1764650120
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_datapath.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_datapath.v
+!i122 8
+L0 1 129
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_datapath.v|
+!i113 1
+R11
+R12
+n@h@g_datapath
+vHG_F_adder
+R21
+!i10b 1
+!s100 [:LQGQ7a0IF2h5[62`VTF0
+R1
+Ij1]^_4XdY;?9F_lU9Na?40
+R2
+R3
+w1764700872
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_adder.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_adder.v
+!i122 9
+L0 1 116
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_adder.v|
+!i113 1
+R11
+R12
+n@h@g_@f_adder
+vHG_F_logic_ALU
+R21
+!i10b 1
+!s100 0B[o:NHTl8GkF@n>oYM]m0
+R1
+IA;N;BHOU=c85LFimVD[NP2
+R2
+R3
+w1764703231
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_logic_ALU.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_logic_ALU.v
+!i122 10
+L0 1 249
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_logic_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_logic_ALU.v|
+!i113 1
+R11
+R12
+n@h@g_@f_logic_@a@l@u
+vHG_i_cnt
+R21
+!i10b 1
+!s100 U`?5=nNL3zN=lJ>MQ><aT0
+R1
+Ic@SZWAK;O4Amdf8Y]Jf>Q1
+R2
+R3
+w1764699643
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_i_cnt.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_i_cnt.v
+!i122 11
+L0 1 128
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_i_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_i_cnt.v|
+!i113 1
+R11
+R12
+n@h@g_i_cnt
+vHG_M_mem
+R21
+!i10b 1
+!s100 oDXn]nDU@G?bB9;>X8X9`1
+R1
+IWoS8e54Uj;T7AQH^74liN0
+R2
+R3
+w1764655317
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_M_mem.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_M_mem.v
+!i122 12
+L0 1 58
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_M_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_M_mem.v|
+!i113 1
+R11
+R12
+n@h@g_@m_mem
+vHG_mux
+R0
+!i10b 1
+!s100 YR6XG[W`gX3dW=C20j44^3
+R1
+IVHhVB;6M6l14nEL24c`hh0
+R2
+R3
+w1764657209
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_mux.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_mux.v
+!i122 13
+L0 1 117
+R7
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_mux.v|
+!i113 1
+R11
+R12
+n@h@g_mux
+vHG_pipeline_reg
+R0
+!i10b 1
+!s100 O9dLFlI0oX:e0VM=OIFIg0
+R1
+II8i>RY>Z?S>B8J=9`]MlJ0
+R2
+R3
+w1764691030
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_pipeline_reg.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_pipeline_reg.v
+!i122 14
+L0 1 29
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_pipeline_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_pipeline_reg.v|
+!i113 1
+R11
+R12
+n@h@g_pipeline_reg
+vHG_split_multiplier
+R0
+!i10b 1
+!s100 oMnn1?cON10Elg6zW^K3C3
+R1
+Ibd1z<5MBM]=>0d:@lUefY0
+R2
+R3
+w1764703385
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_split_multiplier.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_split_multiplier.v
+!i122 15
+L0 1 122
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_split_multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_split_multiplier.v|
+!i113 1
+R11
+R12
+n@h@g_split_multiplier
+vHG_top_module
+R0
+!i10b 1
+!s100 4Z6g]22NPIa[[Pl_UMJ[B3
+R1
+ILIkMZ_6i::g_ZN?^;XY:h2
+R2
+R3
+w1764650138
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_top_module.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_top_module.v
+!i122 16
+L0 1 88
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_top_module.v|
+!i113 1
+R11
+R12
+n@h@g_top_module
+vRND_controller
+Z23 !s110 1765971421
+!i10b 1
+!s100 4415EK8`U:ezT<PF32dfF0
+R1
+I:6d4TWiP`[=A>hIzXT`F?0
+R2
+R3
+w1764690518
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_controller.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_controller.v
+!i122 18
+L0 1 114
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_controller.v|
+!i113 1
+R11
+R12
+n@r@n@d_controller
+vRND_counter
+R23
+!i10b 1
+!s100 o6TEl_`:2i>7K`<faY40T2
+R1
+IjoL>jXNnJ8AWJodPU1hJ91
+R2
+R3
+w1764699208
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_counter.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_counter.v
+!i122 19
+L0 1 79
+R7
+r1
+!s85 0
+31
+Z24 !s108 1765971421.000000
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_counter.v|
+!i113 1
+R11
+R12
+n@r@n@d_counter
+vRND_datapath
+R23
+!i10b 1
+!s100 E<J[SZS0[iB]<PMTXY^iK3
+R1
+IO@cG744k?aW`T]SFF:5@c2
+R2
+R3
+w1764646522
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_datapath.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_datapath.v
+!i122 20
+L0 1 56
+R7
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_datapath.v|
+!i113 1
+R11
+R12
+n@r@n@d_datapath
+vRND_shift_register
+R23
+!i10b 1
+!s100 gAYN:L5RS=jz6VBS2`ENg2
+R1
+IAIC_O[PDm3igmicFeA<BK1
+R2
+R3
+w1764655549
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_shift_register.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_shift_register.v
+!i122 21
+L0 1 37
+R7
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_shift_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_shift_register.v|
+!i113 1
+R11
+R12
+n@r@n@d_shift_register
+vRND_tb_top_module
+Z25 !s110 1765971424
+!i10b 1
+!s100 KD6JY02JG9NXIEDaZYL4N1
+R1
+IC5<C5JjO@g1`2PcR=RX5L3
+R2
+R3
+w1764634373
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_RND_top_module.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_RND_top_module.v
+!i122 34
+L0 3 43
+R7
+r1
+!s85 0
+31
+Z26 !s108 1765971424.000000
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_RND_top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_RND_top_module.v|
+!i113 1
+R11
+R12
+n@r@n@d_tb_top_module
+vRND_top_module
+R23
+!i10b 1
+!s100 jWBf]3Vj?A;:Mb7WXUnSB2
+R1
+I;]6kQAOfeoV@_M_F_>Qa01
+R2
+R3
+w1764634374
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_top_module.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_top_module.v
+!i122 22
+L0 1 42
+R7
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_top_module.v|
+!i113 1
+R11
+R12
+n@r@n@d_top_module
+vs1
+R0
+!i10b 1
+!s100 H__llobI?nF>NI?FeGicH1
+R1
+IFX`^de5LPO`9^9^a09Jm:0
+R2
+R3
+R4
+R5
+R6
+!i122 17
+L0 49 15
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vs2
+R0
+!i10b 1
+!s100 BUWhI[70WI:A0VHzG17Jc0
+R1
+I:NZ;_UPmkBoCX1[5QjXlI1
+R2
+R3
+R4
+R5
+R6
+!i122 17
+L0 64 14
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtb_HG_B_adder
+Z27 !s110 1765971422
+!i10b 1
+!s100 1RJg1Z@2jVSOR;cRk4]H62
+R1
+IeNaG`KNM3g8Vj[m26WLZ10
+R2
+R3
+w1764650198
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_B_adder.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_B_adder.v
+!i122 23
+L0 3 46
+R7
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_B_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_B_adder.v|
+!i113 1
+R11
+R12
+ntb_@h@g_@b_adder
+vtb_HG_const_mem
+R27
+!i10b 1
+!s100 NdH7J6_i;kLAgHoO9d2G]2
+R1
+IMRh9h]BOlo;T[d<KAS[ol2
+R2
+R3
+w1764650205
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_const_mem.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_const_mem.v
+!i122 24
+L0 3 37
+R7
+r1
+!s85 0
+31
+Z28 !s108 1765971422.000000
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_const_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_const_mem.v|
+!i113 1
+R11
+R12
+ntb_@h@g_const_mem
+vtb_HG_F_adder
+R27
+!i10b 1
+!s100 T]b`TDz=i@30lVE@Lo6G61
+R1
+ILT5??zc64@m`SGC=CfYfO2
+R2
+R3
+w1764650211
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_adder.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_adder.v
+!i122 25
+L0 3 68
+R7
+r1
+!s85 0
+31
+R28
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_adder.v|
+!i113 1
+R11
+R12
+ntb_@h@g_@f_adder
+vtb_HG_F_logic_ALU
+R27
+!i10b 1
+!s100 cD?]1OcUeH3UIIK2^7F2F1
+R1
+I0hUAd31<9B?QCekD<oS3A0
+R2
+R3
+w1764690327
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_logic_ALU.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_logic_ALU.v
+!i122 26
+L0 3 76
+R7
+r1
+!s85 0
+31
+R28
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_logic_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_logic_ALU.v|
+!i113 1
+R11
+R12
+ntb_@h@g_@f_logic_@a@l@u
+vtb_HG_i_cnt
+R27
+!i10b 1
+!s100 7SfSVSOBBCi_47:Hj9FmS1
+R1
+I7=ZA_^?8g^T9cV78Q>>ZH3
+R2
+R3
+w1764650224
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_i_cnt.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_i_cnt.v
+!i122 27
+L0 3 51
+R7
+r1
+!s85 0
+31
+R28
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_i_cnt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_i_cnt.v|
+!i113 1
+R11
+R12
+ntb_@h@g_i_cnt
+vtb_HG_M_mem
+Z29 !s110 1765971423
+!i10b 1
+!s100 a>n[FcbeZVUm7JZ7KLXP33
+R1
+I`_GI;DYiobf3_nn1]6nOU2
+R2
+R3
+w1764650248
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_M_mem.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_M_mem.v
+!i122 28
+Z30 L0 3 64
+R7
+r1
+!s85 0
+31
+R28
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_M_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_M_mem.v|
+!i113 1
+R11
+R12
+ntb_@h@g_@m_mem
+vtb_HG_mux
+R29
+!i10b 1
+!s100 m0;WzEO<3gzATV7eMIS520
+R1
+IfYN<L25Y_XC@7GeYFKiRj2
+R2
+R3
+w1764650254
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_mux.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_mux.v
+!i122 29
+L0 3 73
+R7
+r1
+!s85 0
+31
+Z31 !s108 1765971423.000000
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_mux.v|
+!i113 1
+R11
+R12
+ntb_@h@g_mux
+vtb_HG_pipeline_reg
+R29
+!i10b 1
+!s100 D6eFnF^bdf<XQ?R8MPcB83
+R1
+If2WA2ZgdSi>?eO?l5]4KT0
+R2
+R3
+w1764650260
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_pipeline_reg.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_pipeline_reg.v
+!i122 30
+L0 3 66
+R7
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_pipeline_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_pipeline_reg.v|
+!i113 1
+R11
+R12
+ntb_@h@g_pipeline_reg
+vtb_HG_result
+R29
+!i10b 1
+!s100 Af^Z0<^2JIj[>D4Akg`Kc0
+R1
+I2z6^63hP8KcT?k9d;Ue7L0
+R2
+R3
+w1764650267
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_result.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_result.v
+!i122 31
+R30
+R7
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_result.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_result.v|
+!i113 1
+R11
+R12
+ntb_@h@g_result
+vtb_HG_split_multiplier
+R29
+!i10b 1
+!s100 SfTb90BYTzXa3=RDanAe:2
+R1
+IG0BhmIVf7Tz`<2k8=G^7f3
+R2
+R3
+w1764650272
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_split_multiplier.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_split_multiplier.v
+!i122 32
+L0 1 26
+R7
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_split_multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_split_multiplier.v|
+!i113 1
+R11
+R12
+ntb_@h@g_split_multiplier
+vtb_HG_top_module
+R25
+!i10b 1
+!s100 `f?h:l29fW1SAASlK16WI0
+R1
+IiTbHk1R=Xni@9LndKZ]dV3
+R2
+R3
+w1764706124
+8C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_top_module.v
+FC:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_top_module.v
+!i122 33
+L0 3 72
+R7
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_top_module.v|
+!i113 1
+R11
+R12
+ntb_@h@g_top_module

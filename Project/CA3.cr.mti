@@ -1,0 +1,255 @@
+C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_i_cnt.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_i_cnt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_i_cnt
+
+Top level modules:
+	tb_HG_i_cnt
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_adder.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_F_adder
+
+Top level modules:
+	tb_HG_F_adder
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_const_mem.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_const_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_const_mem
+
+Top level modules:
+	tb_HG_const_mem
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/modules.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/modules.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module c1
+-- Compiling module c2
+-- Compiling module FDCP
+-- Compiling module s1
+-- Compiling module s2
+
+Top level modules:
+	c1
+	c2
+	s1
+	s2
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_M_mem.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_M_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_M_mem
+
+Top level modules:
+	HG_M_mem
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_top_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_top_module
+
+Top level modules:
+	tb_HG_top_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_top_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_top_module
+
+Top level modules:
+	RND_top_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_inv.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_inv.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CA3_inv
+
+Top level modules:
+	CA3_inv
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_split_multiplier.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_split_multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_split_multiplier
+
+Top level modules:
+	tb_HG_split_multiplier
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_pipeline_reg.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_pipeline_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_pipeline_reg
+
+Top level modules:
+	tb_HG_pipeline_reg
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_M_mem.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_M_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_M_mem
+
+Top level modules:
+	tb_HG_M_mem
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_top_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_top_module
+
+Top level modules:
+	HG_top_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_controller.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_controller
+
+Top level modules:
+	RND_controller
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_xor.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_xor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CA3_xor
+
+Top level modules:
+	CA3_xor
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_B_adder.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_B_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_B_adder
+
+Top level modules:
+	HG_B_adder
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_RND_top_module.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_RND_top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_tb_top_module
+
+Top level modules:
+	RND_tb_top_module
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_split_multiplier.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_split_multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_split_multiplier
+
+Top level modules:
+	HG_split_multiplier
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_mux.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_mux
+
+Top level modules:
+	HG_mux
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_irg.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_irg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CA3_irg
+
+Top level modules:
+	CA3_irg
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_pipeline_reg.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_pipeline_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_pipeline_reg
+
+Top level modules:
+	HG_pipeline_reg
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_and.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_and.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CA3_and_2
+-- Compiling module CA3_and_3
+
+Top level modules:
+	CA3_and_2
+	CA3_and_3
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_result.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_result.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_result
+
+Top level modules:
+	tb_HG_result
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_datapath.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_datapath
+
+Top level modules:
+	RND_datapath
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_controller.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_controller
+
+Top level modules:
+	HG_controller
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_logic_ALU.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_logic_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_F_logic_ALU
+
+Top level modules:
+	HG_F_logic_ALU
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_counter.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_counter
+
+Top level modules:
+	RND_counter
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_const_mem.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_const_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_const_mem
+
+Top level modules:
+	HG_const_mem
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_adder.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_F_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_F_adder
+
+Top level modules:
+	HG_F_adder
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_i_cnt.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_i_cnt.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_i_cnt
+
+Top level modules:
+	HG_i_cnt
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_B_adder.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_B_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_B_adder
+
+Top level modules:
+	tb_HG_B_adder
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_reg.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/CA3_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CA3_reg
+
+Top level modules:
+	CA3_reg
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_mux.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_mux
+
+Top level modules:
+	tb_HG_mux
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_shift_register.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/RND_shift_register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RND_shift_register
+
+Top level modules:
+	RND_shift_register
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_datapath.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/HG_datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HG_datapath
+
+Top level modules:
+	HG_datapath
+
+} {} {}} C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_logic_ALU.v {1 {vlog -work work -stats=none C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_F_logic_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_HG_F_logic_ALU
+
+Top level modules:
+	tb_HG_F_logic_ALU
+
+} {} {}}

@@ -1,0 +1,91 @@
+# Compile of CA3_and.v was successful.
+# Compile of CA3_inv.v was successful.
+# Compile of CA3_irg.v was successful.
+# Compile of CA3_reg.v was successful.
+# Compile of CA3_xor.v was successful.
+# Compile of HG_B_adder.v was successful.
+# Compile of HG_const_mem.v was successful.
+# Compile of HG_controller.v was successful.
+# Compile of HG_datapath.v was successful.
+# Compile of HG_F_adder.v was successful.
+# Compile of HG_F_logic_ALU.v was successful.
+# Compile of HG_i_cnt.v was successful.
+# Compile of HG_M_mem.v was successful.
+# Compile of HG_mux.v was successful.
+# Compile of HG_pipeline_reg.v was successful.
+# Compile of HG_split_multiplier.v was successful.
+# Compile of HG_top_module.v was successful.
+# Compile of modules.v was successful.
+# Compile of RND_controller.v was successful.
+# Compile of RND_counter.v was successful.
+# Compile of RND_datapath.v was successful.
+# Compile of RND_shift_register.v was successful.
+# Compile of RND_top_module.v was successful.
+# Compile of tb_HG_B_adder.v was successful.
+# Compile of tb_HG_const_mem.v was successful.
+# Compile of tb_HG_F_adder.v was successful.
+# Compile of tb_HG_F_logic_ALU.v was successful.
+# Compile of tb_HG_i_cnt.v was successful.
+# Compile of tb_HG_M_mem.v was successful.
+# Compile of tb_HG_mux.v was successful.
+# Compile of tb_HG_pipeline_reg.v was successful.
+# Compile of tb_HG_result.v was successful.
+# Compile of tb_HG_split_multiplier.v was successful.
+# Compile of tb_HG_top_module.v was successful.
+# Compile of tb_RND_top_module.v was successful.
+# 35 compiles, 0 failed with no errors.
+vsim -gui work.tb_HG_top_module
+# vsim -gui work.tb_HG_top_module 
+# Start time: 15:07:13 on Dec 17,2025
+# Loading work.tb_HG_top_module
+# Loading work.HG_top_module
+# Loading work.HG_controller
+# Loading work.s2
+# Loading work.FDCP
+# Loading work.c1
+# Loading work.c2
+# Loading work.RND_top_module
+# Loading work.RND_controller
+# Loading work.CA3_inv
+# Loading work.RND_datapath
+# Loading work.CA3_xor
+# Loading work.RND_shift_register
+# Loading work.CA3_reg
+# Loading work.RND_counter
+# Loading work.CA3_irg
+# Loading work.CA3_and_2
+# Loading work.HG_datapath
+# Loading work.HG_M_mem
+# Loading work.HG_const_mem
+# Loading work.HG_mux
+# Loading work.HG_F_logic_ALU
+# Loading work.HG_F_adder
+# Loading work.HG_split_multiplier
+# Loading work.HG_B_adder
+# Loading work.HG_pipeline_reg
+# Loading work.HG_i_cnt
+# Loading work.CA3_and_3
+add wave -position insertpoint  \
+sim:/tb_HG_top_module/WIDTH \
+sim:/tb_HG_top_module/WORD \
+sim:/tb_HG_top_module/MEM_PATH \
+sim:/tb_HG_top_module/A_reg_INIT \
+sim:/tb_HG_top_module/B_reg_INIT \
+sim:/tb_HG_top_module/C_reg_INIT \
+sim:/tb_HG_top_module/D_reg_INIT \
+sim:/tb_HG_top_module/clk \
+sim:/tb_HG_top_module/rst \
+sim:/tb_HG_top_module/start \
+sim:/tb_HG_top_module/in_put \
+sim:/tb_HG_top_module/done \
+sim:/tb_HG_top_module/out_put \
+sim:/tb_HG_top_module/wait_cycles
+run -all
+# Simulation finished: done asserted after 642 cycles.
+# out_put = 405e5ecf
+# ** Note: $stop    : C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_top_module.v(71)
+#    Time: 6485 ns  Iteration: 0  Instance: /tb_HG_top_module
+# Break in Module tb_HG_top_module at C:/Users/mrage/Programs/Codes/Verilog/CAD_CA3/Answer/CAD_CA3/Codes/tb_HG_top_module.v line 71
+quit -sim
+# End time: 15:08:28 on Dec 17,2025, Elapsed time: 0:01:15
+# Errors: 0, Warnings: 6
